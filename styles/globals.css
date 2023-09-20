@@ -1,0 +1,20 @@
+body{
+  background-color: #003F7A;
+}
+*{
+  margin: 0;
+}
+main{
+  width: 80%;
+  height: 400px;
+  background-color: rgb(255, 255, 255);
+  margin: 150px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h2{
+  color: #000000;
+  text-transform: uppercase;
+}
